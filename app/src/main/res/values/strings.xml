@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Base de Datos FAUTAPO</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="listadebeneficiarios">BENEFICIARIOS</string>
+    <string name="id">Numero</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="telefono">Telefono o Celular</string>
+    <string name="direccion">Direccion</string>
+    <string name="capacitador">Capacitador</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="consultar">CONSULTA</string>
+    <string name="editar">EDITAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="inicio">INICIO</string>
+    <string name="anterior">ANT.</string>
+    <string name="siguiente">SIG.</string>
+    <string name="fin">FIN</string>
+
+</resources>
